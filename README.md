@@ -390,6 +390,7 @@ https://medium.com/@binhqd/create-your-own-bug-tracker-system-with-errbit-ed56e3
 
 gem install mini_racer --verbose
 
+https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04 (Digitalocean)
 
 # Heroku
 
