@@ -387,3 +387,18 @@ https://stackoverflow.com/questions/58339607/why-does-rails-fails-to-boot-with-e
 -- password: WZRiEPnA0vSA
 
 https://medium.com/@binhqd/create-your-own-bug-tracker-system-with-errbit-ed56e3286f57
+
+gem install mini_racer --verbose
+
+
+# Heroku
+
+https://github.com/errbit/errbit/blob/master/docs/deployment/heroku.md
+
+
+Mongo credentials
+errbituser
+q0vUAiFmYJ85FlqG
+
+mongodb+srv://errbituser:q0vUAiFmYJ85FlqG@cluster0.05suw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
