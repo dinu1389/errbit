@@ -360,3 +360,30 @@ Copyright
 ---------
 
 Copyright (c) 2010-2015 Errbit Team
+
+
+
+# Errbit
+
+https://gorails.com/episodes/rails-error-tracking-with-errbit
+
+https://stackoverflow.com/questions/26852138/sudo-service-mongodb-restart-gives-unrecognized-service-error-in-ubuntu-14-0-4
+
+https://wiki.debian.org/systemd#Installing_and_Testing
+
+Install MongoDB
+https://dev.to/seanwelshbrown/installing-mongodb-on-windows-subsystem-for-linux-wsl-2-19m9
+
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database
+
+mongod
+mongo
+
+Manifest error
+https://stackoverflow.com/questions/58339607/why-does-rails-fails-to-boot-with-expected-to-find-a-manifest-file-in-app-asse
+
+
+-- email:    errbit@errbit.example.com
+-- password: WZRiEPnA0vSA
+
+https://medium.com/@binhqd/create-your-own-bug-tracker-system-with-errbit-ed56e3286f57
