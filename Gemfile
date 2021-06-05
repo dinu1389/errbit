@@ -82,7 +82,7 @@ group :test do
 end
 
 group :heroku, :production do
-  gem 'rails_12factor', require: ENV.key?("HEROKU")
+  gem 'rails_12factor', require: true
 end
 
 group :no_docker, :test, :development do
