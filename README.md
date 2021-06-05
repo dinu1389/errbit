@@ -392,6 +392,10 @@ gem install mini_racer --verbose
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04 (Digitalocean)
 
+Slack setup webhook url
+https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack
+
+
 # Heroku
 
 https://github.com/errbit/errbit/blob/master/docs/deployment/heroku.md
