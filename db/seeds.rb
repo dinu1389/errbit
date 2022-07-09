@@ -7,9 +7,7 @@ puts "-------------------------------"
 admin_username = ENV['ERRBIT_ADMIN_USER'] || "errbit"
 
 def admin_email
-  return 'admin@example.com' if heroku_pr_review_app?
-
-  ENV['ERRBIT_ADMIN_EMAIL'] || "errbit@#{Errbit::Config.host}"
+  return 'admin@example.com'
 end
 
 def admin_pass
