@@ -9,11 +9,11 @@ services:
     # volumes:
     #   - ./:/app
     ports:
-      - "8080:8080"
+      - "3002:3002"
     depends_on:
       - mongo
     environment:
-      - PORT=8080
+      - PORT=3002
       - RACK_ENV=production
       - MONGO_URL=mongodb://mongo:27017/errbit
   mongo:
