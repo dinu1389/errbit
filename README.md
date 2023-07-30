@@ -1,5 +1,8 @@
-you can use direct docker compose up to start this app.
+### you can use direct docker compose up to start this app.
 once it is up login into container and run rake db:seed to see credentials.
+Also run rake db:mongoid:create_indexes
+
+https://github.com/errbit/errbit/issues/1113
 
 
 
